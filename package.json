@@ -1,0 +1,15 @@
+{
+    "name": "supertest-sinon-middleware",
+    "version": "1.0.0",
+    "description": "Example of how to use Sinon to stub cross cutting concern middleware when testing an Express app with Supertest",
+    "main": "app.js",
+    "author": "Alex Brown",
+    "dependencies": {
+        "express": "^4.13.0"
+    },
+    "devDependencies": {
+        "mocha": "^2.2.5",
+        "sinon": "^1.15.3",
+        "supertest": "^1.0.1"
+    }
+}
